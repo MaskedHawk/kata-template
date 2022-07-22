@@ -1,16 +1,17 @@
 {
   "name": "test-gitpod",
   "version": "1.0.0",
-  "description": "",
+  "description": "kata template for interview",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "script" : "ts-node",
+    "test": "jest *"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arazhil/test-gitpod.git"
   },
-  "author": "",
+  "author": "Alexis Bollia @MaskedHawk",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arazhil/test-gitpod/issues"
