@@ -1,4 +1,4 @@
-const helloWorld = () : string => {
+const helloWorld = () => {
     return "Hello World"
 }
 
